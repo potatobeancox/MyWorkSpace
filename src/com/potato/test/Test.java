@@ -44,6 +44,10 @@ public class Test {
 		Set<String> set = new TreeSet<>();
 //		set.contains(new Object());
 		
+		
+		
+		
+		
 		Set<String> set1 = new HashSet();
 		
 		Map<String, String> map = new HashMap<>();
